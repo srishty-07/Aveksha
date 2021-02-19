@@ -147,14 +147,12 @@ body{
     overflow-x:auto;
 }
 
-
-
-
-
-
-
-
-
+#creators
+{
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
 
   header.topbar{
       background:var(--secondary);
